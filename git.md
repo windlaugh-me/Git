@@ -21,3 +21,6 @@ git config --list
 git config --global --unsethttp.proxy
 
 git config --global --unsethttps.proxy
+
+## git设置public
+找到仓库，点击settings,拉到最下面，找到change visibility修改
